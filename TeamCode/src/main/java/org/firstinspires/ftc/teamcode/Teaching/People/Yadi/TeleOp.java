@@ -1,4 +1,6 @@
 package org.firstinspires.ftc.teamcode.Teaching.People.Yadi;
 
-public class TeleOp {
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
+
+public class TeleOp extends {
 }
