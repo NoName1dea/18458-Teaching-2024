@@ -4,6 +4,7 @@ repositories {
     maven { url = 'https://maven.brott.dev/' }
 }
 
+//TODO: UPDATE SOME OF THESE WHEN THE NEXT FTC SEASON STARTS. GO TO LEARN ROADRUNNER
 dependencies {
     implementation 'org.firstinspires.ftc:Inspection:9.1.0'
     implementation 'org.firstinspires.ftc:Blocks:9.1.0'
