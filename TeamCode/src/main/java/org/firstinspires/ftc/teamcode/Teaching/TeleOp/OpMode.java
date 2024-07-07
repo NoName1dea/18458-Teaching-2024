@@ -23,7 +23,7 @@ public class OpMode extends LinearOpMode {
         }
     }
     public void intakeMotor() {
-        if (gamepad1.left_trigger == 0.5 ) {
+        if (gamepad1.left_trigger == 0.4 ) {
             motor.setPower(POWER);
         }
         if (gamepad1.cross) {
