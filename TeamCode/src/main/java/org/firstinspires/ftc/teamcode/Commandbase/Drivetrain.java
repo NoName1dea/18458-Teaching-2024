@@ -5,7 +5,5 @@ import com.arcrobotics.ftclib.command.SubsystemBase;
 
 @Config
 public class Drivetrain extends SubsystemBase {
-    int number = 1;
-    double number2 = 1.0;
 
 }
