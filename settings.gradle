@@ -1,3 +1,4 @@
 include ':FtcRobotController'
 include ':TeamCode'
 include ':MeepMeepTesting'
+rootProject.name = '18458-Teaching-2024'
