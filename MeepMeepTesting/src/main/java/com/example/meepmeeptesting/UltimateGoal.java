@@ -1,5 +1,5 @@
 package com.example.meepmeeptesting;
 
 public class UltimateGoal {
-    String string =  "Noy";
+    String string =  "No";
 }
